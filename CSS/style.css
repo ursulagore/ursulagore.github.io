@@ -1,24 +1,28 @@
 
 h1 {
 	text-align: center;
-	color: olive;
+	color: magenta;
 }
 body {
-	background-color: green;
+	background-color: orange;
+	background-image: url(http://www.hdbackgroundpoint.com/wp-content/uploads/2013/09/20/beautiful_nature-wide.jpg);
 	background-position: center;
-	background-size: 50%;
-	font-family: georgia; 
+	background-size: 100%;
+	font-family: arial black; 
 }
 h2 {
-	color: olive;
+	color: magenta;
 }
 h3 {
-	color: olive;
+	color: magenta;
 }
-ol {
-	color: white;
-	font-size: 20px;
-}
+
 p {
 	color: white;
+	border-style: solid;
+	border-color: olive;
 }
+
+a {
+	color: black;
+	}
