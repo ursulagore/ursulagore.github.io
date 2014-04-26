@@ -1,0 +1,24 @@
+
+h1 {
+	text-align: center;
+	color: olive;
+}
+body {
+	background-color: green;
+	background-position: center;
+	background-size: 50%;
+	font-family: georgia; 
+}
+h2 {
+	color: olive;
+}
+h3 {
+	color: olive;
+}
+ol {
+	color: white;
+	font-size: 20px;
+}
+p {
+	color: white;
+}
